@@ -11,10 +11,10 @@ namespace SmallestFind
             Console.WriteLine("enter 1st number:");
             int num1 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("enter 1st number:");
+            Console.WriteLine("enter 2nd number:");
             int num2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("enter 1st number:");
+            Console.WriteLine("enter 3rd number:");
             int num3 = int.Parse(Console.ReadLine());
 
             if (num1 < num2 && num1 < num3)
